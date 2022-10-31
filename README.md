@@ -1,5 +1,5 @@
 # Landing-Page
 
-this landing page is down using only html and css completed as a part of odin project
+This landing page is done using only HTML and CSS completed as a part of odin project
 
-this exercise focuses on css box model and using css flex
+This exercise focuses on css box model and using css flex
